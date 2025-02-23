@@ -1,6 +1,6 @@
 # BionicLogin
 
-A new Flutter project.
+This is BionicByte Login Web Application.
 
 ## Getting Started
 
