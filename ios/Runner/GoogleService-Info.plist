@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>977170500415-vimj2iqnv8s5g2e4apmf956rn7e1ht2v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.977170500415-vimj2iqnv8s5g2e4apmf956rn7e1ht2v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3sRMwrROpzhx3j8r4NSQXIxFpb5i_Zc0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>977170500415</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BionicByteLLC.Bioniclogin</string>
+	<key>PROJECT_ID</key>
+	<string>bionicflutterflowapps</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bionicflutterflowapps.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:977170500415:ios:153f63d8efd77274ee218a</string>
+</dict>
+</plist>

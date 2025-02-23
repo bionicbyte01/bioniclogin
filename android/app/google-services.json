@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "977170500415",
+    "project_id": "bionicflutterflowapps",
+    "storage_bucket": "bionicflutterflowapps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977170500415:android:f1f08703b352f774ee218a",
+        "android_client_info": {
+          "package_name": "com.BionicByteLLC.Bioniclogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977170500415-9gs4oa6isob43tkti1vmcie0lu0ed027.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzwfvOqlz4gyDeUYfxjrjmRlP-3qsEslg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977170500415-9gs4oa6isob43tkti1vmcie0lu0ed027.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977170500415-vimj2iqnv8s5g2e4apmf956rn7e1ht2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BionicByteLLC.Bioniclogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
